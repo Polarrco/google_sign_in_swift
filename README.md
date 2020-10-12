@@ -1,3 +1,3 @@
 # GoogleSignIn
 
-A description of this package.
+Google Sign In SDK implemented as a SPM.
